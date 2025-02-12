@@ -10,7 +10,7 @@ This is a command-line Python tool that fetches real-time weather updates using 
 - Python 3.x
 - Requests library (install with `pip install requests`)
 
-## Usage:
+# Usage:
 1. Get your API key from [OpenWeatherMap](https://openweathermap.org/).
   
 2. Run the script:  
