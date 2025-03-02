@@ -1,4 +1,4 @@
-## Weather App (Python CLI)
+# Weather App (Python CLI)
 
 This is a command-line Python tool that fetches real-time weather updates using the OpenWeatherMap API.
 
